@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../CrearAlquiler/ConfirmarAlq.js"></script>
+    <script type="module" src="../ListarLibros/ListarLibros.js"></script>
+    <script type="module" src="../ListarLibros/CardLibro.js"></script>
+    <script type="module" src="../ListarLibros/LibrosFetch.js"></script>
+    <script type="module" src="../BarraLateral/BarraLateral.js"></script>
+    <script type="module" src="../BarraLateral/Footer.js"></script>
+    <script type="module" src="../ListarLibros/CardModal.js"></script>
+    <script src="../ListarLibros/Funciones.js"></script>
+    <title>ListarLibros</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+</head>
+<body>
+    <div class="Container">
+        <div class="BarraLateral" id="BarraLateral">
+            
+        </div>
+        <div class="CuerpoPrincipal">
+            <div class="BarraSuperior">
+                
+            </div>
+            <div class="cuerpo">
+                <div class="MenuInicio">
+                    <form class="ingresoLibros" accion="" name="BusquedaLibros">
+                        <div class="barraStock">
+                            <span>
+                                Filtrar Stock Disponible:
+                            </span>
+                            <input type="checkbox" name="Stock" id="BuscarStock"> 
+                        </div>
+                        <div class="barraTitulo">
+                            <span>
+                                Titulo:
+                            </span>
+                            <input type="text" name="BuscarTitulo" id="BuscarTitulo" placeholder="Ingrese el Titulo...">
+                        </div> 
+                        <div class="barraAutor">
+                            <span>
+                                Autor:
+                            </span>
+                            <input type="text" name="BuscarAutor" id="BuscarAutor" placeholder="Ingrese el Autor...">
+                        </div>   
+                        <div class="botonFiltrar">
+                            <button id="FiltarLibros" name="FiltarLibros"> 
+                                <span>
+                                    Buscar
+                                </span> 
+                            </button>
+                        </div>                                           
+                    </form>
+                    <div class="Listado" id="Listado">
+                        
+                    </div>
+                    <div class="ModalLibro" id="ModalLibro">
+                        
+                    </div>
+                </div>
+            </div>
+            <div id="FooterLibros">
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

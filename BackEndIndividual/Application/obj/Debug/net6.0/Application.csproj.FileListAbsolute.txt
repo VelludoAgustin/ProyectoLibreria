@@ -1,0 +1,32 @@
+D:\repos\Andreani\WebApplication1\Application\bin\Debug\net6.0\Application.deps.json
+D:\repos\Andreani\WebApplication1\Application\bin\Debug\net6.0\Application.dll
+D:\repos\Andreani\WebApplication1\Application\bin\Debug\net6.0\ref\Application.dll
+D:\repos\Andreani\WebApplication1\Application\bin\Debug\net6.0\Application.pdb
+D:\repos\Andreani\WebApplication1\Application\bin\Debug\net6.0\Domain.dll
+D:\repos\Andreani\WebApplication1\Application\bin\Debug\net6.0\Domain.pdb
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.dll
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\ref\Application.dll
+D:\repos\Andreani\WebApplication1\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\AWIN V\code\WebApplication1\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\AWIN V\code\WebApplication1\Application\bin\Debug\net6.0\Application.dll
+C:\Users\AWIN V\code\WebApplication1\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\AWIN V\code\WebApplication1\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\AWIN V\code\WebApplication1\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.dll
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\AWIN V\code\WebApplication1\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\AWIN V\code\WebApplication1\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache

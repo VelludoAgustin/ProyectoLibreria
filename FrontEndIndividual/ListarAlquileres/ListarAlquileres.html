@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="../BarraLateral/BarraLateral.js"></script>
+    <script type="module" src="../BarraLateral/Footer.js"></script>
+    <script type="module" src="./ListarAlquileres.js"></script>
+    <script type="module" src="./FilaReservaCard.js"></script>
+    <script type="module" src="./FilaAlquilerCard.js"></script>
+    <script type="module" src="./AlqYResFetch.js"></script>
+    <script src="./FuncionConcretar.js"></script>
+    <script src="./FuncionesTablas.js"></script>
+    <title>ListarAlquileres</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+</head>
+<body>
+    <div class="Container">
+        <div class="BarraLateral" id="BarraLateralAlquileres">
+            
+        </div>
+        <div class="CuerpoPrincipal">
+            <div class="BarraSuperior">
+
+            </div>
+            <div class="cuerpo">
+                <div class="MenuInicio">
+                    <button class="botonContraer" id="AbrirReservas" onclick="AbrirReservas()">\/ Reservas</button>
+                    <button class="botonContraer" id="CerrarReservas" onclick="CerrarReservas()">/\ Reservas</button>
+                    <table id="tablaReservas">
+                        <tr>
+                            <th>ISBN</th>
+                            <th>Titulo</th>
+                            <th>Autor</th>
+                            <th>Editorial</th>
+                            <th>Edicion</th>
+                            <th>FechaReserva</th>
+                            <th></th>
+                        </tr>
+                    </table>
+                    <hr>
+                    <button class="botonContraer" id="AbrirAlquileres" onclick="AbrirAlquileres()">\/ Alquileres</button>
+                    <button class="botonContraer" id="CerrarAlquileres" onclick="CerrarAlquileres()">/\ Alquileres</button>
+                    <table id="tablaAlquileres">
+                        <tr>
+                            <th>ISBN</th>
+                            <th>Titulo</th>
+                            <th>Autor</th>
+                            <th>Editorial</th>
+                            <th>Edicion</th>
+                            <th>FechaAlquiler</th>
+                            <th>FechaDevolucion</th>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div id="FooterAlquileres">
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
